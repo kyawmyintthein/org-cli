@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "x2Km0Qy3WgJJnV19Zv25VwTJcBM=",
+			"path": "github.com/fsnotify/fsnotify",
+			"revision": "4da3e2cfbabc9f751898f250b49f2439785783a1",
+			"revisionTime": "2017-03-29T04:21:07Z"
+		},
+		{
+			"checksumSHA1": "VmSgg0+AGPLOL6WYjSNMKqelZhI=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "4cd6d1a821c7175768725b55ca82f14683a29ea4",
+			"revisionTime": "2017-07-14T13:21:52Z"
+		}
+	],
+	"rootPath": "org-cli"
+}
